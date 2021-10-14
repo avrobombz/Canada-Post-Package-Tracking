@@ -1,0 +1,11 @@
+{
+    "APP_DATA": {
+        "app_id": "CP_TRACK"
+    },
+    "SQL": {
+        "sql_host": "", <--DB HOSTNAME
+        "sql_user": "", <--DB USER ID
+        "sql_passwd": "", <--DB Password
+        "sql_db": "" <--DB Table
+    }
+}
